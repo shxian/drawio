@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T07:14:01.723Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="UH0ukWLgyjB-Uf7rKjBc" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T07:18:20.858Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="WTBzsP_lyXhfgBJx5JeG" version="21.6.5" type="github">
   <diagram name="Page-1" id="YZ-_NqlRaxDczBT41T-6">
-    <mxGraphModel dx="2761" dy="1086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1770" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
         <mxCell id="UhTnNKOjFuEMbcI4-UWW-23" value="未发起" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UhTnNKOjFuEMbcI4-UWW-8" target="UhTnNKOjFuEMbcI4-UWW-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UhTnNKOjFuEMbcI4-UWW-8" value="是否已经发起？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="UhTnNKOjFuEMbcI4-UWW-8" value="是否已经发起审批？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UhTnNKOjFuEMbcI4-UWW-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UhTnNKOjFuEMbcI4-UWW-10" target="UhTnNKOjFuEMbcI4-UWW-11" edge="1">
@@ -134,10 +134,31 @@
         <mxCell id="UhTnNKOjFuEMbcI4-UWW-19" value="是否已有签约认证记录" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="360" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="7hsorBb9Qb3xn0NSskeE-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UhTnNKOjFuEMbcI4-UWW-28" target="7hsorBb9Qb3xn0NSskeE-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hsorBb9Qb3xn0NSskeE-63" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7hsorBb9Qb3xn0NSskeE-62">
+          <mxGeometry x="-0.1221" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7hsorBb9Qb3xn0NSskeE-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UhTnNKOjFuEMbcI4-UWW-28" target="UhTnNKOjFuEMbcI4-UWW-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="550" />
+              <mxPoint x="520" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7hsorBb9Qb3xn0NSskeE-65" value="无认证记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7hsorBb9Qb3xn0NSskeE-64">
+          <mxGeometry x="0.0533" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UhTnNKOjFuEMbcI4-UWW-28" value="是否有月结认证记录" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="510" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UhTnNKOjFuEMbcI4-UWW-29" value="提示客户经理已有签约数据，请先处理已发起的数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="UhTnNKOjFuEMbcI4-UWW-29" value="提示客户经理已有签约数据，请先处理已发起的数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UhTnNKOjFuEMbcI4-UWW-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UhTnNKOjFuEMbcI4-UWW-34" target="UhTnNKOjFuEMbcI4-UWW-29" edge="1">
@@ -168,7 +189,7 @@
         <mxCell id="7hsorBb9Qb3xn0NSskeE-7" value="覆盖先前的签约记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7hsorBb9Qb3xn0NSskeE-12" value="提示客户已有签约数据，请先处理已发起的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7hsorBb9Qb3xn0NSskeE-12" value="提示客户已有签约数据，请先处理已发起的数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="610" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7hsorBb9Qb3xn0NSskeE-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7hsorBb9Qb3xn0NSskeE-16" target="7hsorBb9Qb3xn0NSskeE-23">
@@ -226,14 +247,23 @@
             <mxPoint x="2340" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7hsorBb9Qb3xn0NSskeE-39" value="提示客户经理已有签约数据，客户经理是谁，请先处理已发起的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7hsorBb9Qb3xn0NSskeE-39" value="提示客户经理已有签约数据，客户经理是谁，请先处理已发起的数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="90" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7hsorBb9Qb3xn0NSskeE-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7hsorBb9Qb3xn0NSskeE-43" target="7hsorBb9Qb3xn0NSskeE-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hsorBb9Qb3xn0NSskeE-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7hsorBb9Qb3xn0NSskeE-43" target="7hsorBb9Qb3xn0NSskeE-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7hsorBb9Qb3xn0NSskeE-43" value="线下创建卡号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1760" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7hsorBb9Qb3xn0NSskeE-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7hsorBb9Qb3xn0NSskeE-45" target="7hsorBb9Qb3xn0NSskeE-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7hsorBb9Qb3xn0NSskeE-45" value="线下签约合同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2125" y="1470" width="120" height="60" as="geometry" />
+          <mxGeometry x="2125" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7hsorBb9Qb3xn0NSskeE-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7hsorBb9Qb3xn0NSskeE-46" target="7hsorBb9Qb3xn0NSskeE-43">
           <mxGeometry relative="1" as="geometry">
@@ -260,11 +290,25 @@
         <mxCell id="7hsorBb9Qb3xn0NSskeE-46" value="卡号是否生效" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1780" y="1040" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7hsorBb9Qb3xn0NSskeE-49" value="卡号生效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7hsorBb9Qb3xn0NSskeE-49" value="卡号生效" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1760" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7hsorBb9Qb3xn0NSskeE-54" value="作废当前申请记录，提示已线下创建卡号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1570" width="120" height="60" as="geometry" />
+        <mxCell id="7hsorBb9Qb3xn0NSskeE-54" value="作废当前客户名称的申请记录，状态标记为已线下创建卡号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7hsorBb9Qb3xn0NSskeE-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7hsorBb9Qb3xn0NSskeE-55" target="7hsorBb9Qb3xn0NSskeE-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hsorBb9Qb3xn0NSskeE-60" value="线下，卡号生效" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7hsorBb9Qb3xn0NSskeE-56">
+          <mxGeometry x="-0.2375" y="3" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7hsorBb9Qb3xn0NSskeE-55" value="卡号是否生效" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="1580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7hsorBb9Qb3xn0NSskeE-61" value="提示客户经理已有签约数据，请先处理已发起的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
