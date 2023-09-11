@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T10:06:28.753Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="zHS5GJ7BB0xBX5CquFWF" version="21.6.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-11T10:08:01.470Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="tBio-Ts3evxzlx5OfRPI" version="21.6.8" type="github" pages="2">
   <diagram name="月结签约" id="YZ-_NqlRaxDczBT41T-6">
     <mxGraphModel dx="4399" dy="2257" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -737,7 +737,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OT4xIZBCu10vFmE78z89" name="月结管控">
-    <mxGraphModel dx="1805" dy="1708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3334" dy="2680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -911,6 +911,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Rx5ZxmXx0Y2EBb0R5yYe-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nl4T_dFLnc-v56d1r_o_-3" target="nl4T_dFLnc-v56d1r_o_-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rx5ZxmXx0Y2EBb0R5yYe-6" value="网点有效性逻辑判断" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Rx5ZxmXx0Y2EBb0R5yYe-5">
+          <mxGeometry x="0.0365" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nl4T_dFLnc-v56d1r_o_-3" value="网点有效性" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="220" width="80" height="80" as="geometry" />
         </mxCell>
@@ -923,20 +931,79 @@
         <mxCell id="nl4T_dFLnc-v56d1r_o_-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nl4T_dFLnc-v56d1r_o_-12" target="nl4T_dFLnc-v56d1r_o_-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Rx5ZxmXx0Y2EBb0R5yYe-8" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nl4T_dFLnc-v56d1r_o_-18">
+          <mxGeometry x="0.0517" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rx5ZxmXx0Y2EBb0R5yYe-7" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nl4T_dFLnc-v56d1r_o_-12" target="Rx5ZxmXx0Y2EBb0R5yYe-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nl4T_dFLnc-v56d1r_o_-12" value="是否网点映射" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rx5ZxmXx0Y2EBb0R5yYe-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nl4T_dFLnc-v56d1r_o_-17" target="Rx5ZxmXx0Y2EBb0R5yYe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rx5ZxmXx0Y2EBb0R5yYe-10" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Rx5ZxmXx0Y2EBb0R5yYe-9">
+          <mxGeometry x="-0.1371" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rx5ZxmXx0Y2EBb0R5yYe-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nl4T_dFLnc-v56d1r_o_-17" target="Rx5ZxmXx0Y2EBb0R5yYe-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rx5ZxmXx0Y2EBb0R5yYe-14" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Rx5ZxmXx0Y2EBb0R5yYe-11">
+          <mxGeometry x="0.0989" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nl4T_dFLnc-v56d1r_o_-17" value="是否区内转第三方" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="-100" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Rx5ZxmXx0Y2EBb0R5yYe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Rx5ZxmXx0Y2EBb0R5yYe-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Rx5ZxmXx0Y2EBb0R5yYe-1" value="同分部：可互相使用；&lt;br&gt;网点映射：可互相使用（1集配站（大件重货）2同城 3中转直派 4仓储5:医药6:综合）" style="text;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="104.98" y="60" width="395.01" height="90" as="geometry" />
+          <mxGeometry x="104.98" y="55" width="395.01" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Rx5ZxmXx0Y2EBb0R5yYe-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Rx5ZxmXx0Y2EBb0R5yYe-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="523" y="-60" />
+              <mxPoint x="523" y="200" />
+              <mxPoint x="101" y="200" />
+              <mxPoint x="101" y="260" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Rx5ZxmXx0Y2EBb0R5yYe-2" value="无固定地址：在账号所在地区网点范围内可使用。如755Y下所有网点可用&lt;br&gt;固定地址：在区内第三方协议固定地址对应的网点范围内可用。如在755E/755F可" style="text;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="100" y="-110" width="399.99" height="90" as="geometry" />
+          <mxGeometry x="102.49" y="-105" width="399.99" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Rx5ZxmXx0Y2EBb0R5yYe-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Rx5ZxmXx0Y2EBb0R5yYe-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="-220" />
+              <mxPoint x="520" y="200" />
+              <mxPoint x="101" y="200" />
+              <mxPoint x="101" y="250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Rx5ZxmXx0Y2EBb0R5yYe-3" value="无固定地址：除账号所在地区外，全网所有网点均可使用。&lt;br&gt;固定地址：除账号所在地区外，在外区仅固定网点可使用" style="text;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="104.98" y="-260" width="395.02" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rx5ZxmXx0Y2EBb0R5yYe-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rx5ZxmXx0Y2EBb0R5yYe-4" target="Rx5ZxmXx0Y2EBb0R5yYe-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rx5ZxmXx0Y2EBb0R5yYe-13" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Rx5ZxmXx0Y2EBb0R5yYe-12">
+          <mxGeometry x="0.0036" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Rx5ZxmXx0Y2EBb0R5yYe-4" value="是否区外转第三方" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="-260" width="80" height="80" as="geometry" />
