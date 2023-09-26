@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T06:25:38.908Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="CeP4U25lMWCp79XDbl8y" version="21.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-09-26T06:31:18.521Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Jqx21-Y3wCD3ZntgCt-f" version="21.7.4" type="github" pages="5">
   <diagram name="月结签约" id="YZ-_NqlRaxDczBT41T-6">
     <mxGraphModel dx="4399" dy="2257" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1358,6 +1358,44 @@
         </mxCell>
         <mxCell id="NTNCFfhU3JVx2GifOQn3-22" value="企服" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="200" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vw6Oj_6MIkFAvwiNRH2C" name="预付商业逻辑">
+    <mxGraphModel dx="955" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-hZEaHz9gyEvUKJMOm92-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-hZEaHz9gyEvUKJMOm92-1" target="-hZEaHz9gyEvUKJMOm92-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hZEaHz9gyEvUKJMOm92-1" value="账期客户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-hZEaHz9gyEvUKJMOm92-2" value="折扣" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-hZEaHz9gyEvUKJMOm92-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-hZEaHz9gyEvUKJMOm92-4" target="-hZEaHz9gyEvUKJMOm92-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hZEaHz9gyEvUKJMOm92-4" value="预付客户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-hZEaHz9gyEvUKJMOm92-5" value="权益" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-hZEaHz9gyEvUKJMOm92-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-hZEaHz9gyEvUKJMOm92-8" target="-hZEaHz9gyEvUKJMOm92-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hZEaHz9gyEvUKJMOm92-8" value="SME及以上客户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-hZEaHz9gyEvUKJMOm92-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-hZEaHz9gyEvUKJMOm92-10" target="-hZEaHz9gyEvUKJMOm92-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hZEaHz9gyEvUKJMOm92-10" value="PB客户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
