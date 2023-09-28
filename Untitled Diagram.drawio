@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T03:02:43.488Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="weZZ5hDLoLG_WURhQBtb" version="21.8.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-09-28T03:20:51.618Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="4iTDyrfV9PZAhP7YYyXS" version="21.8.2" type="github" pages="5">
   <diagram name="月结签约" id="YZ-_NqlRaxDczBT41T-6">
     <mxGraphModel dx="2092" dy="700" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1363,7 +1363,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vw6Oj_6MIkFAvwiNRH2C" name="预付商业逻辑">
-    <mxGraphModel dx="591" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="371" dy="209" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1420,8 +1420,8 @@
         </mxCell>
         <mxCell id="x5LozowXavh2sh36LB5H-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="196.5" y="529" as="sourcePoint" />
-            <mxPoint x="266.5" y="529" as="targetPoint" />
+            <mxPoint x="196.5" y="535" as="sourcePoint" />
+            <mxPoint x="266.5" y="535" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x5LozowXavh2sh36LB5H-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -1442,11 +1442,61 @@
             <mxPoint x="308" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x5LozowXavh2sh36LB5H-12" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;客户新增&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="440" width="60" height="30" as="geometry" />
+        <mxCell id="x5LozowXavh2sh36LB5H-12" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;客户新增&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="111" y="440" width="58" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="x5LozowXavh2sh36LB5H-13" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;账期+预付模式&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=2;" vertex="1" parent="1">
-          <mxGeometry x="180" y="480" width="60" height="30" as="geometry" />
+        <mxCell id="x5LozowXavh2sh36LB5H-14" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;预付&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="174" y="468" width="58" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="x5LozowXavh2sh36LB5H-15" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;权益&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="201" y="510" width="58" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="x5LozowXavh2sh36LB5H-16" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;签约&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="201" y="550" width="58" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="x5LozowXavh2sh36LB5H-17" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;低风险&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="222" y="468" width="58" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="x5LozowXavh2sh36LB5H-18" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;多种引入模式&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="288" y="446" width="58" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="x5LozowXavh2sh36LB5H-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5LozowXavh2sh36LB5H-19" target="x5LozowXavh2sh36LB5H-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5LozowXavh2sh36LB5H-28" value="本质" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x5LozowXavh2sh36LB5H-25">
+          <mxGeometry x="0.0718" relative="1" as="geometry">
+            <mxPoint x="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x5LozowXavh2sh36LB5H-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="108" y="714" width="162" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="x5LozowXavh2sh36LB5H-21" value="账期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="171" y="732" width="72" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="x5LozowXavh2sh36LB5H-22" value="预付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="171" y="798" width="72" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="x5LozowXavh2sh36LB5H-23" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;签约&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="774" width="54" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="x5LozowXavh2sh36LB5H-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="714" width="162" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="x5LozowXavh2sh36LB5H-26" value="客户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="732" width="72" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="x5LozowXavh2sh36LB5H-27" value="财务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="798" width="72" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="x5LozowXavh2sh36LB5H-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5LozowXavh2sh36LB5H-29" target="x5LozowXavh2sh36LB5H-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5LozowXavh2sh36LB5H-29" value="科技" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="306" y="383" width="54" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="x5LozowXavh2sh36LB5H-31" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;预付线上化+增量客户引入&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="259" y="354" width="150" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
