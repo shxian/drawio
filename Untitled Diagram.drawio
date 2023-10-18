@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T06:37:42.133Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="_EPIjJY1PuoY8zeUV7uw" version="22.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-10-18T06:37:57.466Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="NkKw1YwFsDISylo5YRHi" version="22.0.4" type="github" pages="6">
   <diagram name="月结签约" id="YZ-_NqlRaxDczBT41T-6">
     <mxGraphModel dx="2920" dy="1317" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1725,8 +1725,8 @@
         <mxCell id="iooRnMPT9Ol3ldcnPgIM-97" value="密码是否正确" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1845" y="-160" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iooRnMPT9Ol3ldcnPgIM-98" value="同城渠道使用月结卡号绑定&amp;amp;下单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="-340" width="800" height="30" as="geometry" />
+        <mxCell id="iooRnMPT9Ol3ldcnPgIM-98" value="同城渠道使用月结卡号绑定&amp;amp;下单 - 关联使用限制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="-340" width="800" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iooRnMPT9Ol3ldcnPgIM-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iooRnMPT9Ol3ldcnPgIM-101" target="iooRnMPT9Ol3ldcnPgIM-104">
           <mxGeometry relative="1" as="geometry" />
