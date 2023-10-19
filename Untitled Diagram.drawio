@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T11:04:37.087Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="I0OT52ai8M19RonhfjZR" version="22.0.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-10-19T11:05:04.584Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="MKZ0GAjvn-OAU5JX59fb" version="22.0.4" type="github" pages="7">
   <diagram name="月结签约" id="YZ-_NqlRaxDczBT41T-6">
     <mxGraphModel dx="2920" dy="1317" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1818,7 +1818,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OFSfkERfXTuLB9XEl_Hz" name="同城管控">
-    <mxGraphModel dx="3108" dy="2373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1979" dy="1736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2241,6 +2241,11 @@
         <mxCell id="u3Bc2mU7TRuMDXw8fAZ9-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u3Bc2mU7TRuMDXw8fAZ9-47" target="u3Bc2mU7TRuMDXw8fAZ9-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="u3Bc2mU7TRuMDXw8fAZ9-72" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u3Bc2mU7TRuMDXw8fAZ9-68">
+          <mxGeometry x="-0.0636" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="u3Bc2mU7TRuMDXw8fAZ9-47" value="卡号是否配置同城使用权限" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="891" y="1290" width="80" height="80" as="geometry" />
         </mxCell>
@@ -2255,10 +2260,10 @@
         <mxCell id="u3Bc2mU7TRuMDXw8fAZ9-49" value="用户是否有使用权限" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="751" y="1080" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="u3Bc2mU7TRuMDXw8fAZ9-52" value="有使用权限" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u3Bc2mU7TRuMDXw8fAZ9-52" value="有使用权限" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="671" y="1090" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u3Bc2mU7TRuMDXw8fAZ9-55" value="无大网使用权限" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u3Bc2mU7TRuMDXw8fAZ9-55" value="无大网使用权限" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="671" y="1010" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u3Bc2mU7TRuMDXw8fAZ9-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1.009;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u3Bc2mU7TRuMDXw8fAZ9-49" target="u3Bc2mU7TRuMDXw8fAZ9-55">
@@ -2280,10 +2285,10 @@
         <mxCell id="u3Bc2mU7TRuMDXw8fAZ9-60" value="用户是否有使用权限" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="751" y="1290" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="u3Bc2mU7TRuMDXw8fAZ9-61" value="有使用权限" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u3Bc2mU7TRuMDXw8fAZ9-61" value="有使用权限" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="671" y="1300" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u3Bc2mU7TRuMDXw8fAZ9-62" value="无大网使用权限" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u3Bc2mU7TRuMDXw8fAZ9-62" value="无大网使用权限" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="671" y="1220" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u3Bc2mU7TRuMDXw8fAZ9-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1.009;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u3Bc2mU7TRuMDXw8fAZ9-60" target="u3Bc2mU7TRuMDXw8fAZ9-62">
@@ -2294,7 +2299,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u3Bc2mU7TRuMDXw8fAZ9-67" value="有使用权限" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u3Bc2mU7TRuMDXw8fAZ9-67" value="未配置使用限制，有使用权限" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="891" y="1430" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
