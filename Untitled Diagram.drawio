@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T09:47:48.817Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="uu1bTD9OV2RmwjwE7TgL" version="22.0.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-10-19T08:34:22.765Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="a2dkxzTKXnsUoueBTxgu" version="22.0.4" type="github" pages="7">
   <diagram name="月结签约" id="YZ-_NqlRaxDczBT41T-6">
     <mxGraphModel dx="2920" dy="1317" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1286,12 +1286,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of 下单管控" id="VudCnVL1i0lduH8dzopE">
-    <mxGraphModel dx="2230" dy="1878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2506" dy="2033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Sgud_7Ou6UB-Xrxu6s1C-0" />
         <mxCell id="Sgud_7Ou6UB-Xrxu6s1C-1" parent="Sgud_7Ou6UB-Xrxu6s1C-0" />
         <mxCell id="jQDr3aZXeHYx0qXo8Jr1-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Sgud_7Ou6UB-Xrxu6s1C-1">
-          <mxGeometry x="-375" y="-770" width="1750" height="1750" as="geometry" />
+          <mxGeometry x="-375" y="-770" width="1755" height="1755" as="geometry" />
         </mxCell>
         <mxCell id="Sgud_7Ou6UB-Xrxu6s1C-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="Sgud_7Ou6UB-Xrxu6s1C-1">
           <mxGeometry x="-60" y="-590" width="630" height="740" as="geometry" />
@@ -1418,7 +1418,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sgud_7Ou6UB-Xrxu6s1C-37" value="网点有效性" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Sgud_7Ou6UB-Xrxu6s1C-1">
+        <mxCell id="Sgud_7Ou6UB-Xrxu6s1C-37" value="网点有效性" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="Sgud_7Ou6UB-Xrxu6s1C-1">
           <mxGeometry x="10" y="220" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Sgud_7Ou6UB-Xrxu6s1C-38" value="提示卡号无效，无法下单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Sgud_7Ou6UB-Xrxu6s1C-1">
@@ -1493,13 +1493,13 @@
           <mxGeometry x="1410" y="90" width="350" height="310" as="geometry" />
         </mxCell>
         <mxCell id="Sgud_7Ou6UB-Xrxu6s1C-62" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="Sgud_7Ou6UB-Xrxu6s1C-61">
-          <mxGeometry width="350" height="310" as="geometry" />
+          <mxGeometry x="10" y="-5" width="350" height="310" as="geometry" />
         </mxCell>
         <mxCell id="Sgud_7Ou6UB-Xrxu6s1C-63" value="月结卡号有效性&#xa;网点有效性&#xa;白名单有效性&#xa;渠道管控有效性" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="Sgud_7Ou6UB-Xrxu6s1C-61">
-          <mxGeometry x="50" y="110" width="200" height="80" as="geometry" />
+          <mxGeometry x="80" y="115" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Sgud_7Ou6UB-Xrxu6s1C-64" value="&lt;h1&gt;出参&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Sgud_7Ou6UB-Xrxu6s1C-61">
-          <mxGeometry x="40" y="55" width="60" height="40" as="geometry" />
+          <mxGeometry x="70" y="60" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sgud_7Ou6UB-Xrxu6s1C-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Sgud_7Ou6UB-Xrxu6s1C-1" source="Sgud_7Ou6UB-Xrxu6s1C-69" target="Sgud_7Ou6UB-Xrxu6s1C-12">
           <mxGeometry relative="1" as="geometry" />
@@ -1818,7 +1818,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OFSfkERfXTuLB9XEl_Hz" name="同城管控">
-    <mxGraphModel dx="2760" dy="2856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1461" dy="1924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2063,6 +2063,15 @@
         </mxCell>
         <mxCell id="iooRnMPT9Ol3ldcnPgIM-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.434;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iooRnMPT9Ol3ldcnPgIM-60" target="iooRnMPT9Ol3ldcnPgIM-82">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u3Bc2mU7TRuMDXw8fAZ9-1" value="cx 下单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u3Bc2mU7TRuMDXw8fAZ9-2" value="CMDP 统一下单接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u3Bc2mU7TRuMDXw8fAZ9-3" value="月结使用权限配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
