@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T09:06:03.637Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="zABCSzzXCCwl4aMj-rqd" version="22.0.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-11-02T09:10:39.380Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="oBbudzKgomUPXppVFxi2" version="22.0.8" type="github" pages="8">
   <diagram name="月结签约" id="YZ-_NqlRaxDczBT41T-6">
     <mxGraphModel dx="3334" dy="1400" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1602,7 +1602,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9d8AGdbsPUlQ2NPIto2W" name="顺发切换2">
-    <mxGraphModel dx="1242" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="828" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1612,7 +1612,7 @@
         <mxCell id="gu2W_qxekEbZBrjQIc01-2" value="客服" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="140" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gu2W_qxekEbZBrjQIc01-3" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gu2W_qxekEbZBrjQIc01-3" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="140" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
