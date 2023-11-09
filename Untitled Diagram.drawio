@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T09:10:39.380Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="oBbudzKgomUPXppVFxi2" version="22.0.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-11-09T03:45:31.850Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="0WvXBVlmZgCTK5KY1-tq" version="22.0.8" type="github" pages="9">
   <diagram name="月结签约" id="YZ-_NqlRaxDczBT41T-6">
     <mxGraphModel dx="3334" dy="1400" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1602,17 +1602,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9d8AGdbsPUlQ2NPIto2W" name="顺发切换2">
-    <mxGraphModel dx="828" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gu2W_qxekEbZBrjQIc01-1" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="gu2W_qxekEbZBrjQIc01-1" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="140" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gu2W_qxekEbZBrjQIc01-2" value="客服" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="gu2W_qxekEbZBrjQIc01-2" value="客服" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="140" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gu2W_qxekEbZBrjQIc01-3" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="gu2W_qxekEbZBrjQIc01-3" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="140" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
@@ -1696,7 +1696,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vw6Oj_6MIkFAvwiNRH2C" name="预付商业逻辑">
-    <mxGraphModel dx="6210" dy="3500" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="676" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1835,7 +1835,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OFSfkERfXTuLB9XEl_Hz" name="同城管控">
-    <mxGraphModel dx="2092" dy="1800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3108" dy="2329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2324,6 +2324,14 @@
         <mxCell id="u3Bc2mU7TRuMDXw8fAZ9-67" value="未配置使用限制，有使用权限" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="969.5" y="1410" width="80" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PSzNHXoYD1HZHVIqt8Z2" name="B端渠道">
+    <mxGraphModel dx="1242" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
